@@ -13,8 +13,8 @@ XoClash is a simple yet powerful Tic-Tac-Toe game built with Flutter, featuring 
 - Dart
 - AI Algorithm (Minimax)
 
-## 📸 Screenshots
-_coming soon..._
+## 📸 Demo
+[🎥 Watch Demo](https://github.com/peexforge/xoclash/raw/main/assets/gif.mp4)
 
 ## 🔧 Installation
 ```bash
