@@ -1,0 +1,10 @@
+# Flutter & Dart
+build/
+.android/
+.ios/
+.packages
+.pub-cache/
+.pub/
+.idea/
+.vscode/
+
