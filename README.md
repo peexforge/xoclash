@@ -1,16 +1,35 @@
-# tictactoe
+# ❌⭕ XoClash - AI-Powered Tic-Tac-Toe
 
-A new Flutter project.
+XoClash is a simple yet powerful Tic-Tac-Toe game built with Flutter, featuring an AI opponent that challenges your strategic thinking.
 
-## Getting Started
+## 🚀 Features
+- 🤖 **AI Opponent** - Play against an AI with different difficulty levels.
+- 🎨 **Clean UI** - Simple and intuitive design for a smooth experience.
+- 📱 **Cross-Platform** - Works on Android, iOS, and Web.
+- ⚡ **Fast & Lightweight** - Optimized for performance.
 
-This project is a starting point for a Flutter application.
+## 🛠️ Technologies Used
+- Flutter
+- Dart
+- AI Algorithm (Minimax)
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Screenshots
+_coming soon..._
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔧 Installation
+```bash
+git clone https://github.com/peexforge/xoclash.git
+cd xoclash
+flutter pub get
+flutter run
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🤝 Contributing
+Feel free to fork the repo and submit a PR!
+
+## 📬 Contact
+- **LinkedIn:** [Alireza Hasanzadeh](https://www.linkedin.com/in/pxforge)
+- **GitHub:** [peexforge](https://github.com/peexforge)
+
+---
+Give the project a ⭐ if you like it!
